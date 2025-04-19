@@ -1,0 +1,2 @@
+# projectPINN
+A PINN 'playground' 
